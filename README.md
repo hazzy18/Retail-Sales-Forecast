@@ -84,14 +84,7 @@ To use this project, follow these steps:
 - **Model Accuracy and Metrics**: Upon optimizing parameters, model1 and model2 exhibit impressive accuracies of 97.4% and 97.7%, respectively. Opting for model1 (with MarkDowns) ensures robust predictions for unseen data. Additional evaluation includes key metrics like mean absolute error, mean squared error, root mean squared error, and the coefficient of determination (R-squared), offering a comprehensive assessment of the model's performance and reliability.
 
 - **Model Persistence**: We conclude this phase by saving our well-trained model to a pickle file. This strategic move enables us to effortlessly load the model whenever needed, streamlining the process of making predictions on weekly sales in future applications.
-
-
-**Exploratory Data Analysis (EDA) - Streamlit Application:**
-
-**Migrating to SQL**: 
-- Following the weekly sales predictions, the data is migrated to a PostgreSQL database. Leveraging PostgreSQL as a Relational Database Management System allows us to store structured data in a tabular format. 
-- Utilizing SQL queries, we seamlessly access the required data from the database, facilitating efficient retrieval and analysis of pertinent information.
-
+- 
 **Top Sales**: 
 - Explore the Top Stores option to discover the top 10 stores based on weekly sales, with the flexibility to select a specific date and either an overall or department-specific view. 
 - Additionally, the Top Departments option reveals the top 10 departments by weekly sales, allowing users to customize their analysis by choosing a date and either an overall or store-specific perspective. 
@@ -118,16 +111,6 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 <br />
 
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-<br />
-
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
+📧 Email: lahar0918@gmail.com 
